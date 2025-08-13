@@ -11,7 +11,7 @@ cd ohio_LIS_backend
 
 **Run:**
 ```bash
-# Unix/Mac/Linux:
+# Unix/Mac/Linux/Powershell:
 ./mvnw spring-boot:run
 
 # Windows:
