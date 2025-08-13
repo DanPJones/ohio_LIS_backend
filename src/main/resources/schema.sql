@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS forms (
+  id IDENTITY PRIMARY KEY,      
+  name VARCHAR(255) NOT NULL,
+  age INT,
+  title VARCHAR(255) NOT NULL,
+  hometown VARCHAR(255)
+);
